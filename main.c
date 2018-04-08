@@ -6,3 +6,4 @@ void main(){
 //c
 6
 ok ta mere 
+6
