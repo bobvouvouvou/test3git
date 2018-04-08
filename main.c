@@ -1,14 +1,10 @@
 #include <stdio.h>
+#include "function.h"
 
-void main(){
-  printf("hello"); maybeeeewlcvmlkxjcvpmolkjxcv
-dosdololksdlkmldo}
-//lul3d
-//sddsqdsq
-//dsfdsf
-cwxcwxdq55555
-those 5 r fucked
-5454
-331
-wxcwxcwxcwxcwxcwxc
-2121
+int main(){
+  int a;
+  print_hello();
+  printf("2*2 = %d", times2(2));
+  scanf("%d\n",&a );
+  return 0;
+}
