@@ -5,5 +5,8 @@ void main(){
 }
 //c
 6
-ok ta mere 
+ok ta mere
 6
+manbche*
+sdqml;sd
+dsùdsq
