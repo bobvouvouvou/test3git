@@ -4,3 +4,4 @@ void main(){
   printf("hello");
 }
 //c
+6
